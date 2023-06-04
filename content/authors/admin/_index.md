@@ -1,29 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Government and Public Affairs (MGAP)
+    institution: Facultad Latinoamericana de Ciencias Sociales México
+    year: 2020-2022
+  - course: DSS in Applied Economics
+    institution: Centre de Techniques de Planification et d'Économie Appliquée
+    year: 2013-2017
 email: ""
-first_name: Alice
+first_name: Johnny
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Decision making
+- Policy innovation
+- Data Science and Statistics
+- Finance
+- Random Control Trial
+last_name: Johnny Joseph
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Catch Up Haiti
+  url: 
+role: Vice-President
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +31,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JosephJ83594166
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/John19-92/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/johnny-joseph-659169121
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Johnny Joseph
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Johnny Joseph has a master's degree in public policy and a bachelor's degree in applied economics. He is passionate about history, mathematics, statistics and philosophy. He has written several articles on socio-political and economic subjects in Haiti.
 {style="text-align: justify;"}
